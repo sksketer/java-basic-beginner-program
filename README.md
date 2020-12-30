@@ -1,1 +1,2 @@
-all of these program's are very good and will be very helpfull
+These all programs are written in java programming language. 
+And all are array programs. 
